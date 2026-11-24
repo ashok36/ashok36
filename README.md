@@ -34,7 +34,7 @@ I design and build scalable data pipelines, dimensional data models and analytic
 ---
 
 ## Working with Data
-- Practical Steps to Build a [Data Quality Framework](https://sites.google.com/d/165M8xuaGizQI9_HNpgS0aJtcyC8IbrX3/p/1FAlksRMhc9UGwOKzeJ2zQRN2pnHK-a27/edit) in Snowflake
+- Practical Steps to Build a [Data Quality Framework](https://sites.google.com/view/data-engineering-hub/home) in Snowflake
 ---
 
 ## 📫 Connect with me
