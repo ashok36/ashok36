@@ -23,7 +23,7 @@ I design and build scalable data pipelines, dimensional data models and analytic
 
 ---
 
-## 🎓 Certifications and Courses## 🎓 Certifications and Courses
+## 🎓 Certifications and Courses
 - ❄️ [SnowPro Core Certified (COF-C03)](https://achieve.snowflake.com/59649ef5-9ddb-4b07-9314-0578f7d115b4) – Snowflake, Nov 2026
 - 🔷 [Microsoft Certified: Fabric Data Engineer Associate (DP-700)](https://learn.microsoft.com/api/credentials/share/en-us/AshokReddy-7155/C5AEB7CC3E88432C?sharingId=7B4CC828D79C5EB5) – Jan 2026
 - 🔷 [Microsoft Certified: Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/api/credentials/share/en-us/AshokReddy-7155/BC6548B09053A947?sharingId=7B4CC828D79C5EB5) – Jan 2023
@@ -31,6 +31,10 @@ I design and build scalable data pipelines, dimensional data models and analytic
 
 🔗 [All my Microsoft credentials](https://learn.microsoft.com/en-us/users/ashokreddy-7155/credentials?tab=credentials-tab)
 
+---
+
+## Working with Data
+- Practical Steps to Build a [Data Quality Framework](https://sites.google.com/d/165M8xuaGizQI9_HNpgS0aJtcyC8IbrX3/p/1FAlksRMhc9UGwOKzeJ2zQRN2pnHK-a27/edit) in Snowflake
 ---
 
 ## 📫 Connect with me
